@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Privat24Department</string>
+    <string name="ad_add_filter">add filter</string>
+    <string name="ad_update_departments">update departments</string>
+    <string name="ad_hint_name_filter">Name filter</string>
+    <string name="ad_hint_city_filter">City filter</string>
+</resources>
